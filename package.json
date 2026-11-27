@@ -32,11 +32,11 @@
   "devDependencies": {
     "@types/node": "^26.6.6",
     "@types/ws": "^8.18.2",
-    "@yao-pkg/pkg": "^6.25.0",
+    "@yao-pkg/pkg": "^6.26.0",
     "esbuild": "^0.28.2",
-    "oxlint": "^1.93.0",
+    "oxlint": "^1.95.0",
     "prettier": "^3.10.1",
-    "prettier-plugin-svelte": "^4.1.1",
+    "prettier-plugin-svelte": "^4.2.0",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2"
   }
